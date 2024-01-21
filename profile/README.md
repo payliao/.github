@@ -1,6 +1,6 @@
 # PayLiao❗️
 
-DeFi QR Payments System, using [Singapore's Standardised E-Payment QR Codes (SGQR)](https://www.mas.gov.sg/development/e-payments/sgqr), powered by Ethereum (Sepolia).
+DeFi QR Payments System, using [Singapore's Standardised E-Payment QR Codes (SGQR)](https://www.mas.gov.sg/development/e-payments/sgqr), powered by Polygon (Mumbai).
 
 <div align="center">
 <img 
